@@ -20,7 +20,7 @@ This is a standalone, power tool release of TypeScript for Visual Studio 2017. I
     <projectSourceUrl>https://github.com/Microsoft/TypeScript</projectSourceUrl>
     <docsUrl>https://www.typescriptlang.org/docs/tutorial.html</docsUrl>    
     <bugTrackerUrl>https://github.com/Microsoft/TypeScript/issues</bugTrackerUrl>
-    <tags>typescript visualstudio visual studio vs2017</tags>
+    <tags>typescript visualstudio visual studio vs2017 admin</tags>
     <copyright>https://raw.githubusercontent.com/Microsoft/TypeScript/master/CopyrightNotice.txt</copyright>
     <licenseUrl>http://www.typescriptlang.org/License.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
