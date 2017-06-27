@@ -5,5 +5,12 @@
 
 Chocolatey package which includes typescripts sdk for vs2017
 ## How to install?
-`choco install typescript-vs2017 -version 2.3.3.0`
+`choco install typescript-vs2017 -version 2.4.1.0`
+
+## Do You want to update typescript version?
+1. clone repository
+2. replace url in `chocolateyinstall.ps1` with a new one
+3. generate new checksum with `CertUtil -hashfile "path to new exe" sha256`
+4. update version of a package in `.nuspec` file
+5. run `cpack`
 
