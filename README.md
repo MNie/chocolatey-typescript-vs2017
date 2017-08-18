@@ -5,7 +5,7 @@
 
 Chocolatey package which includes typescripts sdk for vs2017
 ## How to install?
-`choco install typescript-vs2017 -version 2.4.1.0`
+`choco install typescript-vs2017 -version 2.5.0.1-RC`
 
 ## Do You want to update typescript version?
 1. clone repository

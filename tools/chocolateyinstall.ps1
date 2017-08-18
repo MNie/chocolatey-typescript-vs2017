@@ -13,8 +13,8 @@ $packageArgs = @{
   silentArgs   = "/quiet /norestart /log `"$env:TEMP\chocolatey\$($packageName)\$($packageName).Install.log`""
   validExitCodes= @(0)
 
-  softwareName  = 'TypeScript Tools for Microsoft Visual Studio 2017 2.4.1.0'
-  checksum		= '4cd1c0f11bcfd3928ee4e894cb7e2635d5d72ca0'
+  softwareName  = 'TypeScript Tools for Microsoft Visual Studio 2017 2.5.0.1-RC'
+  checksum		= '0f0af77bf00f0fe5936e417930d7b43b1fe211ba9bfea07877a38946f143ed64'
   checksumType  = 'sha256'
 }
 
