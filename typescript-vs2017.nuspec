@@ -4,7 +4,7 @@
   <metadata>
     <id>typescript-vs2017</id>
     <title>TypeScript for Visual Studio 2017</title>
-    <version>2.7-RC</version>
+    <version>2.7.1</version>
     <authors>Microsoft</authors>
     <owners>MNie</owners>
     <summary>TypeScript is a language for application-scale JavaScript development. It is included in Visual Studio 2017. </summary>
