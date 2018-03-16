@@ -2,7 +2,7 @@
 
 $packageName= 'typescript-vs2017'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://download.microsoft.com/download/7/0/A/70A6AC0E-8934-4396-A43E-445059F430EA/2.7.2-TS-release-dev14update3-20180212.1/TypeScript_SDK.exe'
+$url        = 'http://download.microsoft.com/download/7/0/A/70A6AC0E-8934-4396-A43E-445059F430EA/2.8.0-TS-release-dev14update3-20180313.3/TypeScript_SDK.exe'
 
 $packageArgs = @{
   packageName   = $packageName
@@ -13,8 +13,8 @@ $packageArgs = @{
   silentArgs   = "/quiet /norestart /log `"$env:TEMP\chocolatey\$($packageName)\$($packageName).Install.log`""
   validExitCodes= @(0)
 
-  softwareName  = 'TypeScript Tools for Microsoft Visual Studio 2017 2.7.2'
-  checksum		= '4da7088605cc6b5bc06ca7ce1ef33cfdee196c05a6c789b4f83a96fb89fb5e16'
+  softwareName  = 'TypeScript Tools for Microsoft Visual Studio 2017 2.8-RC'
+  checksum		= 'c8dc6bf05f5f41c6a1d6d529567805e05e430dc024ae0a48aa96aabea75cf370'
   checksumType  = 'sha256'
 }
 
