@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop';
 
 $packageName = 'typescript-vs2017'
-$softwareName = 'TypeScript Tools for Microsoft Visual Studio 2017 2.8.1'
+$softwareName = 'TypeScript Tools for Microsoft Visual Studio 2017 2.8.3'
  
 $installerType = 'EXE' 
 
