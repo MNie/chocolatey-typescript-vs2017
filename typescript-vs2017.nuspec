@@ -2,25 +2,25 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>typescript-vs2017</id>
+    <id>typescript-vs2017-vs2019</id>
     <title>TypeScript for Visual Studio 2017</title>
-    <version>3.3.1</version>
+    <version>3.4.5</version>
     <authors>Microsoft</authors>
     <owners>MNie</owners>
-    <summary>TypeScript is a language for application-scale JavaScript development. It is included in Visual Studio 2017. </summary>
+    <summary>TypeScript is a language for application-scale JavaScript development. It is included in Visual Studio 2017 and 2019. </summary>
     <description>TypeScript is a language for application-scale JavaScript. 
 TypeScript adds optional types, classes, and modules to JavaScript. 
 TypeScript supports tools for large-scale JavaScript applications for any browser, for any host, on any OS. 
 TypeScript compiles to clean, readable, standards-based JavaScript. Try it out at https://www.typescriptlang.org/playground.
 
-This is a standalone, power tool release of TypeScript for Visual Studio 2017. It includes both the TypeScript experience for Visual Studio and a standalone compiler that can be used from the command line.
+This is a standalone, power tool release of TypeScript for Visual Studio 2017 and 2019. It includes both the TypeScript experience for Visual Studio and a standalone compiler that can be used from the command line.
     </description>
     <projectUrl>https://www.typescriptlang.org/</projectUrl>
     <packageSourceUrl>https://github.com/MNie/chocolatey-typescript-vs2017</packageSourceUrl>
     <projectSourceUrl>https://github.com/Microsoft/TypeScript</projectSourceUrl>
     <docsUrl>https://www.typescriptlang.org/docs/tutorial.html</docsUrl>    
     <bugTrackerUrl>https://github.com/Microsoft/TypeScript/issues</bugTrackerUrl>
-    <tags>typescript visualstudio visual studio vs2017 admin</tags>
+    <tags>typescript visualstudio visual studio vs2017 vs2019 admin</tags>
     <copyright>https://raw.githubusercontent.com/Microsoft/TypeScript/master/CopyrightNotice.txt</copyright>
     <licenseUrl>http://www.typescriptlang.org/License.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
