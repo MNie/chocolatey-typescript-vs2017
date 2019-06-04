@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>typescript-vs2017-vs2019</id>
-    <title>TypeScript for Visual Studio 2017</title>
+    <title>TypeScript for Visual Studio 2017 and 2019</title>
     <version>3.4.5</version>
     <authors>Microsoft</authors>
     <owners>MNie</owners>
