@@ -5,5 +5,5 @@
 
 Chocolatey package which includes typescript sdk for vs2017 and vs2019
 ## How to install?
-`choco install typescript-vs2017`
+`choco install typescript-vs2017-vs2019`
 

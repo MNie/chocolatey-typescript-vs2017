@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop';
 
 $packageName = 'typescript-vs2017-vs2019'
-$softwareName = 'TypeScript Tools for Microsoft Visual Studio 2017 and 2019 3.4.5'
+$softwareName = 'TypeScript Tools for Microsoft Visual Studio 2017 and 2019 3.5.2'
  
 $installerType = 'EXE' 
 
